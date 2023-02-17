@@ -8,7 +8,10 @@ const INPUT_UP: u8 = 1 << 0;
 const INPUT_DOWN: u8 = 1 << 1;
 const INPUT_LEFT: u8 = 1 << 2;
 const INPUT_RIGHT: u8 = 1 << 3;
-const INPUT_FIRE: u8 = 1 << 4;
+const INPUT_LP: u8 = 1 << 4;
+const INPUT_HP: u8 = 1 << 5;
+const INPUT_LK: u8 = 1 << 6;
+const INPUT_HK: u8 = 1 << 7;
 
 // move the input sampling from move_player into a special input 
 // system. This system need to return the same type we defined in our 
@@ -28,8 +31,17 @@ pub fn input(_: In<ggrs::PlayerHandle>, keys: Res<Input<KeyCode>>) -> u8 {
     if keys.any_pressed([KeyCode::Right, KeyCode::D]) {
         input |= INPUT_RIGHT;
     }
-    if keys.any_pressed([KeyCode::Space, KeyCode::Return]) {
-        input |= INPUT_FIRE;
+    if keys.just_pressed(KeyCode::O) {
+        input |= INPUT_LP;
+    }
+    if keys.just_pressed(KeyCode::P) {
+        input |= INPUT_HP;
+    }
+    if keys.just_pressed(KeyCode::L) {
+        input |= INPUT_LK;
+    }
+    if keys.just_pressed(KeyCode::SemiColon) {
+        input |= INPUT_HK;
     }
 
     input
@@ -92,5 +104,5 @@ pub fn direction(input: u8) -> Vec2 {
 
 // check for the fire button
 pub fn fire(input: u8) -> bool {
-    input & INPUT_FIRE != 0
+    input & INPUT_LP != 0
 }
