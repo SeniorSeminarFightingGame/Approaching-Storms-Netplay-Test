@@ -1,0 +1,13 @@
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\url-a4ce33d724a22a44.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\host.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\origin.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\parser.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\path_segments.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\slicing.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\quirks.rs
+
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\liburl-a4ce33d724a22a44.rlib: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\host.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\origin.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\parser.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\path_segments.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\slicing.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\quirks.rs
+
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\url-a4ce33d724a22a44.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\host.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\origin.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\parser.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\path_segments.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\slicing.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\quirks.rs
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\host.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\origin.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\parser.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\path_segments.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\slicing.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.3.1\src\quirks.rs:

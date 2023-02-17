@@ -1,0 +1,10 @@
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\bevy_macro_utils-0c648b190abc94cf.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\attrs.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\shape.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\symbol.rs
+
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\libbevy_macro_utils-0c648b190abc94cf.rlib: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\attrs.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\shape.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\symbol.rs
+
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\bevy_macro_utils-0c648b190abc94cf.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\attrs.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\shape.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\symbol.rs
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\attrs.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\shape.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.1\src\symbol.rs:

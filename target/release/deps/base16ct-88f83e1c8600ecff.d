@@ -1,0 +1,12 @@
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\base16ct-88f83e1c8600ecff.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\libbase16ct-88f83e1c8600ecff.rlib: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+C:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\release\deps\base16ct-88f83e1c8600ecff.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs:

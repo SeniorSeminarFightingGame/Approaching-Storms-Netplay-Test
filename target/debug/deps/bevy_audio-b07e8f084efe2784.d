@@ -1,0 +1,10 @@
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\bevy_audio-b07e8f084efe2784.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_output.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_source.rs
+
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\libbevy_audio-b07e8f084efe2784.rlib: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_output.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_source.rs
+
+C:\Users\jonah\Documents\GitHub\SeniorSeminarFightingGame-Networking-Example-Repository-01-Progress--\target\debug\deps\bevy_audio-b07e8f084efe2784.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_output.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_source.rs
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_output.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.9.1\src\audio_source.rs:
