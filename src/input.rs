@@ -40,7 +40,7 @@ pub fn input(_: In<ggrs::PlayerHandle>, keys: Res<Input<KeyCode>>) -> u8 {
     if keys.just_pressed(KeyCode::L) {
         input |= INPUT_LK;
     }
-    if keys.just_pressed(KeyCode::Colon) {
+    if keys.just_pressed(KeyCode::Semicolon) {
         input |= INPUT_HK;
     }
 
