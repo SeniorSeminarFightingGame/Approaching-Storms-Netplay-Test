@@ -1,0 +1,12 @@
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\pharos-892dbaa1865a7658.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\error.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\events.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\observable.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\pharos.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\filter.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\shared_pharos.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\../README.md
+
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\pharos-892dbaa1865a7658.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\error.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\events.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\observable.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\pharos.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\filter.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\shared_pharos.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\../README.md
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\error.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\events.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\observable.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\pharos.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\filter.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\shared_pharos.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\pharos-0.5.3\src\../README.md:

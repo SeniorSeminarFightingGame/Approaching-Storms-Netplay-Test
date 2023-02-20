@@ -1,5 +1,11 @@
 use bevy::prelude::*;
 
+pub struct Materials {
+    pub player_material: Handle<ColorMaterial>,
+    pub floor_material: Handle<ColorMaterial>,
+    pub hitbox_material: Handle<ColorMaterial>,
+}
+
 // platformer additions
 #[derive(Copy, Clone)]
 pub enum GameDirection {
@@ -84,3 +90,11 @@ pub struct Bullet;
 // component. It will be a newtype of Vec2.
 #[derive(Component, Reflect, Default, Clone, Copy)]
 pub struct MoveDir(pub Vec2);
+
+#[derive(Component, Default)]
+pub struct BoxCords{
+    topLeftX: f32,
+    topLeftY: f32,
+    bottomRightX: f32,
+    bottomRightY: f32,
+}

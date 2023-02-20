@@ -1,0 +1,10 @@
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\gilrs_core-ea51cdc5221366e0.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\ff.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\gamepad.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\utils.rs
+
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\gilrs_core-ea51cdc5221366e0.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\ff.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\gamepad.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\utils.rs
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\mod.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\mod.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\ff.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\platform\wasm\gamepad.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.5.2\src\utils.rs:

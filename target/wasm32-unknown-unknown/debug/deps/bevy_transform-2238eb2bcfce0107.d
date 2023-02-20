@@ -1,0 +1,10 @@
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\bevy_transform-2238eb2bcfce0107.rmeta: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\global_transform.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\transform.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\systems.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\../README.md
+
+c:\Users\jonah\Documents\GitHub\Approaching-Storms-Main\target\wasm32-unknown-unknown\debug\deps\bevy_transform-2238eb2bcfce0107.d: C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\lib.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\mod.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\global_transform.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\transform.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\systems.rs C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\../README.md
+
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\lib.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\mod.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\global_transform.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\components\transform.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\systems.rs:
+C:\Users\jonah\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_transform-0.9.1\src\../README.md:

@@ -9,6 +9,7 @@ use bevy_rapier2d::prelude::*; // floor and gravity
 
 mod components;
 mod input;
+mod hitboxes;
 
 // store the matchbox socket somewhere: it's accessible from multiple 
 // systems, so create a new resource for things related to the current
@@ -221,10 +222,10 @@ fn spawn_players(mut commands: Commands, mut rip: ResMut<RollbackIdProvider>) {
         })
 
         // STEP 04: gravity and control
-        //.insert(Jumper {
-           // jump_impulse: 14.,
-           // is_jumping: false,
-        //})
+        .insert(Jumper {
+            jump_impulse: 14.,
+            is_jumping: false,
+        })
 
         .insert(GravityScale(0.5))
         .insert(Sleeping::disabled())
