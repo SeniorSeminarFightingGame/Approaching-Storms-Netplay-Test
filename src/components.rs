@@ -1,4 +1,5 @@
 use bevy::prelude::*;
+use bevy::sprite::ColorMaterial;
 
 pub struct Materials {
     pub player_material: Handle<ColorMaterial>,
@@ -92,9 +93,21 @@ pub struct Bullet;
 pub struct MoveDir(pub Vec2);
 
 #[derive(Component, Default)]
-pub struct BoxCords{
-    topLeftX: f32,
-    topLeftY: f32,
-    bottomRightX: f32,
-    bottomRightY: f32,
+pub struct Hitbox{
+    pub width: f32,
+    pub height: f32,
+    pub position: Vec2,
+    pub damage: f32,
+    pub chip: f32,
+    pub hitstun: i32,
+    pub blockstun: i32,
+    pub visibility: Visibility,
+}
+
+#[derive(Component, Default)]
+pub struct Grabbox{
+    pub width: f32,
+    pub height: f32,
+    pub position: Vec2,
+    pub visibility: Visibility,
 }

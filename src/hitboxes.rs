@@ -1,33 +1,47 @@
-use bevy::prelude::*;
+use bevy::{math::Vec3Swizzles,prelude::*};
+use crate::components::*;
+use bevy_ggrs::ggrs;
 
-use super::{BoxCords, GameDirection, Materials};
+use super::{GameDirection, Materials};
 
 pub struct HitboxSpawnEvent {
-    pub position: BoxCords,
+    
 }
 
-#[derive(Component)]
-struct BoxBundle{
-    topLeftX: f32,
-    topLeftY: f32,
-    bottomRightX: f32,
-    bottomRightY: f32,
-    visibility: Visibility,
-}
-
-fn setup_hitbox_hidden(
+pub fn make_hitbox(
     mut commands: Commands,
+    mut player_query: Query<(&Transform, &Player)>,
+    mut materials: Materials,
+    newWidth: f32,
+    newHeight: f32,
+    xOffset: f32,
+    yOffset: f32,
+    newDamage: f32,
+    newChip: f32,
+    newHitstun: i32,
+    newBlockstun: i32
 ) {
-    commands.spawn((
-        BoxBundle {
-            topLeftX: 1.,
-            topLeftY: 1.,
-            bottomRightX: 0.,
-            bottomRightY: 0.,
-            visibility: Visibility {
-                is_visible: true,
+    for (transform, player) in player_query.iter_mut() {
+        let player_pos = transform.translation.xy();
+        commands.spawn((
+            Hitbox {
+                width: newWidth,
+                height: newHeight,
+                position: player_pos + Vec2::new(xOffset, yOffset),
+                damage: newDamage,
+                chip: newChip,
+                hitstun: newHitstun,
+                blockstun: newBlockstun,
+                visibility: Visibility {
+                    is_visible: true,
+                },
+                ..default()
             },
-            //..Default::default()
-        },
-    ));
+            /*sprite = SpriteBundle {
+                material: materials.hitbox_material.clone(),
+                sprite: Sprite::new(Vec2::new(newWidth, newHeight)),
+                ..Default::default()
+            };*/
+        ));
+    }
 }

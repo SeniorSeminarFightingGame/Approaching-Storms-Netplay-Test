@@ -26,7 +26,7 @@ pub fn input(_: In<ggrs::PlayerHandle>, keys: Res<Input<KeyCode>>) -> u8 {
         input |= INPUT_DOWN;
     }
     if keys.any_pressed([KeyCode::Left, KeyCode::A]) {
-        input |= INPUT_LEFT
+        input |= INPUT_LEFT;
     }
     if keys.any_pressed([KeyCode::Right, KeyCode::D]) {
         input |= INPUT_RIGHT;
@@ -53,10 +53,10 @@ pub fn input(_: In<ggrs::PlayerHandle>, keys: Res<Input<KeyCode>>) -> u8 {
 pub fn direction(input: u8) -> Vec2 {
     let mut direction = Vec2::ZERO;
     if input & INPUT_UP != 0 {
-        direction.y += 1.;
+        //direction.y += 1.;
         
         // STEP 09 jumping code:
-        // if keyboard_input.just_pressed(KeyCode::W) && !jumper.is_jumping {
+        // if !jumper.is_jumping {
             //velocity.linvel = Vec2::new(0., jumper.jump_impulse).into();
             //jumper.is_jumping = true
         //}
@@ -64,7 +64,7 @@ pub fn direction(input: u8) -> Vec2 {
     }
 
     if input & INPUT_DOWN != 0 {
-        direction.y -= 1.;
+        //direction.y -= 1.;
     }
 
     if input & INPUT_RIGHT != 0 {
