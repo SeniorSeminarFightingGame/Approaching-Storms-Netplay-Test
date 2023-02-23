@@ -106,3 +106,19 @@ pub fn direction(input: u8) -> Vec2 {
 pub fn fire(input: u8) -> bool {
     input & INPUT_LP != 0
 }
+
+pub fn lightpunch(input: u8) -> bool {
+    input & INPUT_LP != 0
+}
+
+pub fn heavypunch(input: u8) -> bool {
+    input & INPUT_HP != 0
+}
+
+pub fn lightkick(input: u8) -> bool {
+    input & INPUT_LK != 0
+}
+
+pub fn heavykick(input: u8) -> bool {
+    input & INPUT_HK != 0
+}
