@@ -1,8 +1,1 @@
-
-target/debug/deps/extreme_bevy.pdb
-target/debug/deps/libbevy_render-3e68a0812f83a83b.rlib
-target/debug/deps/libmatchbox_socket-6410862c123d4726.rlib
-target/debug/deps/libwebrtc-234638929fdad0a0.rlib
-target/debug/extreme_bevy.pdb
-target/wasm32-unknown-unknown/debug/deps/extreme_bevy-505cd0bc8577d85e.wasm
-target/wasm32-unknown-unknown/debug/extreme_bevy.wasm
+/target
